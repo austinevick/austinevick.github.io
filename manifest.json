@@ -1,11 +1,11 @@
 {
-    "name": "resume_builder",
-    "short_name": "resume_builder",
+    "name": "Augustine Victor",
+    "short_name": "Augustine Victor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "My name is Augustine Victor, I am a flutter mobile developer.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

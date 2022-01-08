@@ -55978,7 +55978,7 @@ A.LS.prototype={}
 A.lO.prototype={
 h(a){return"ResponsiveTargetPlatform."+this.b}}
 A.C5.prototype={
-K(a,b){return new A.tj(B.es,"/landing_page",A.atv(),new A.Uf(),"Flutter Demo",A.ae5(B.O).Y0(B.tz,B.bp),!1,null)}}
+K(a,b){return new A.tj(B.es,"/landing_page",A.atv(),new A.Uf(),"Augustine Victor",A.ae5(B.O).Y0(B.tz,B.bp),!1,null)}}
 A.Uf.prototype={
 $2(a,b){return new A.nk(b,null)},
 $S:358}
@@ -61198,7 +61198,7 @@ s($,"auw","ah_",()=>new A.a1l())
 r($,"awP","aip",()=>new A.NP(A.aK(t.Gf)))
 r($,"awL","aio",()=>new A.Np())
 s($,"atX","agL",()=>A.lM("^[\\w!#%&'*+\\-.^`|~]+$",!0))
-s($,"awW","air",()=>A.b([A.adv("Moviee is a flutter mobile app that displays list of movies and trailers, characters and recommended movies with third party integration, the app also include a searching feature with offline storage.","images/movie_app.png","Moviee","https://github.com/austinevick/flutter_movie_app"),A.adv("A flutter mobile app that uses local notifications package to display notification.","images/reminder_app.png","Reminder App","https://play.google.com/store/apps/details?id=com.augustinevictor.reminder_app")],A.Q("o<o4>")))
+s($,"awW","air",()=>A.b([A.adv("Moviee is a flutter mobile app that displays list of movies and trailers, characters and recommended movies with third party integration, the app also include a searching feature with offline storage.","images/movie_app.png","Moviee","https://github.com/austinevick/flutter_movie_app"),A.adv("A reminder app","images/reminder_app.png","Reminder App","https://play.google.com/store/apps/details?id=com.augustinevictor.reminder_app")],A.Q("o<o4>")))
 s($,"avd","aam",()=>new A.v())
 r($,"apu","ahr",()=>new A.TN($.aam()))})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
